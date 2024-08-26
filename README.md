@@ -177,5 +177,5 @@ make an issue in our GitHub discussions community:
 ## ✨ Contributors
 
 <a href="https://github.com/withfig/autocomplete/graphs/contributors">
-  <img alt="Grid of profile icons of the 400+ contributors" src="https://contrib.rocks/image?repo=withfig/autocomplete" />
+  <img alt="Grid of profile icons of the 400+ contributors." src="https://contrib.rocks/image?repo=withfig/autocomplete" />
 </a>
